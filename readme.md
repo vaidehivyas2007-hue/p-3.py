@@ -362,6 +362,5 @@ Special thanks to the following resources and communities that made this project
 
 ---
 
-*Made with ❤️ and ☕ — Last updated: June 2026*
 
 </div>
